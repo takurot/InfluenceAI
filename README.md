@@ -30,3 +30,37 @@ InfluenceAIのプロジェクトリポジトリへようこそ。InfluenceAIは�
 
 その他の問い合わせについては、GitHubのIssueトラッカーを通じてご連絡ください。
 
+# InfluenceAI
+
+Welcome to the InfluenceAI project repository. InfluenceAI is a platform designed to comprehensively evaluate the influence of social media influencers. By utilizing large language models (LLM) for content analysis and tracking multiple social media accounts, InfluenceAI provides accurate influencer impact scores to help brands and marketers make informed decisions.
+
+## Features
+
+- **User Authentication and Management**: Secure user registration, login, and profile management.
+- **Influencer Management**: Add and manage influencers' social media accounts, auto-detect and link multiple accounts.
+- **Data Collection and Update**: Regularly collect and update influencer data from multiple social media platforms.
+- **Content Analysis**: Analyze influencer content for sentiment, themes, tone, and engagement using LLM.
+- **Influence Score Calculation**: Display comprehensive influence scores, engagement rates, follower quality, and brand fit scores.
+- **Campaign Simulation**: Simulate virtual campaigns and predict ROI.
+- **Real-time Dashboard**: Visualize influencer performance with customizable widgets and real-time updates.
+- **Alert System**: Notify users of significant changes in engagement rates, follower counts, and competitor activities.
+
+## Documentation
+
+- [Business Plan](./business_plan.md): Detailed business plan for InfluenceAI.
+- [Specification](./specification.md): Technical specification document for InfluenceAI.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Contributions
+
+We welcome contributions! If you have any questions, suggestions, or issues, please open an [Issue](https://github.com/takurot/InfluenceAI/issues).
+
+## Contact
+
+For further inquiries, please reach out via the Issue tracker on GitHub.
+
+
+
